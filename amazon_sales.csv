@@ -1,0 +1,61 @@
+Order_ID,Customer,City,Category,Product,Quantity,Price,Payment,Order_Date
+1001,Hari,Chennai,Electronics,Laptop,1,55000,UPI,01-01-2025
+1002,Logesh,Madurai,Furniture,Table,2,6500,Card,02-02-2025
+1003,Priya,Coimbatore,Groceries,Sugar,3,900,Cash,03-03-2025
+1004,Arun,Salem,Electronics,Monitor,4,12000,Net Banking,04-04-2025
+1005,Keerthi,Trichy,Furniture,Chair,5,2500,UPI,05-05-2025
+1006,Kumar,Chennai,Groceries,Oil,1,1800,Card,06-06-2025
+1007,Divya,Madurai,Electronics,Mouse,2,800,Cash,07-01-2025
+1008,Ravi,Coimbatore,Furniture,Cupboard,3,18000,Net Banking,08-02-2025
+1009,Vijay,Salem,Groceries,Rice Bag,4,2400,UPI,09-03-2025
+1010,Anitha,Trichy,Electronics,Phone,5,25000,Card,10-04-2025
+1011,Hari,Chennai,Furniture,Sofa,1,25000,Cash,11-05-2025
+1012,Logesh,Madurai,Groceries,Tea,2,450,Net Banking,12-06-2025
+1013,Priya,Coimbatore,Electronics,Keyboard,3,1800,UPI,13-01-2025
+1014,Arun,Salem,Furniture,Table,4,6500,Card,14-02-2025
+1015,Keerthi,Trichy,Groceries,Sugar,5,900,Cash,15-03-2025
+1016,Kumar,Chennai,Electronics,Laptop,1,55000,Net Banking,16-04-2025
+1017,Divya,Madurai,Furniture,Chair,2,2500,UPI,17-05-2025
+1018,Ravi,Coimbatore,Groceries,Oil,3,1800,Card,18-06-2025
+1019,Vijay,Salem,Electronics,Monitor,4,12000,Cash,19-01-2025
+1020,Anitha,Trichy,Furniture,Cupboard,5,18000,Net Banking,20-02-2025
+1021,Hari,Chennai,Groceries,Rice Bag,1,2400,UPI,21-03-2025
+1022,Logesh,Madurai,Electronics,Mouse,2,800,Card,22-04-2025
+1023,Priya,Coimbatore,Furniture,Sofa,3,25000,Cash,23-05-2025
+1024,Arun,Salem,Groceries,Tea,4,450,Net Banking,24-06-2025
+1025,Keerthi,Trichy,Electronics,Phone,5,25000,UPI,25-01-2025
+1026,Kumar,Chennai,Furniture,Table,1,6500,Card,26-02-2025
+1027,Divya,Madurai,Groceries,Sugar,2,900,Cash,27-03-2025
+1028,Ravi,Coimbatore,Electronics,Keyboard,3,1800,Net Banking,28-04-2025
+1029,Vijay,Salem,Furniture,Chair,4,2500,UPI,01-05-2025
+1030,Anitha,Trichy,Groceries,Oil,5,1800,Card,02-06-2025
+1031,Hari,Chennai,Electronics,Laptop,1,55000,Cash,03-01-2025
+1032,Logesh,Madurai,Furniture,Cupboard,2,18000,Net Banking,04-02-2025
+1033,Priya,Coimbatore,Groceries,Rice Bag,3,2400,UPI,05-03-2025
+1034,Arun,Salem,Electronics,Monitor,4,12000,Card,06-04-2025
+1035,Keerthi,Trichy,Furniture,Sofa,5,25000,Cash,07-05-2025
+1036,Kumar,Chennai,Groceries,Tea,1,450,Net Banking,08-06-2025
+1037,Divya,Madurai,Electronics,Mouse,2,800,UPI,09-01-2025
+1038,Ravi,Coimbatore,Furniture,Table,3,6500,Card,10-02-2025
+1039,Vijay,Salem,Groceries,Sugar,4,900,Cash,11-03-2025
+1040,Anitha,Trichy,Electronics,Phone,5,25000,Net Banking,12-04-2025
+1041,Hari,Chennai,Furniture,Chair,1,2500,UPI,13-05-2025
+1042,Logesh,Madurai,Groceries,Oil,2,1800,Card,14-06-2025
+1043,Priya,Coimbatore,Electronics,Keyboard,3,1800,Cash,15-01-2025
+1044,Arun,Salem,Furniture,Cupboard,4,18000,Net Banking,16-02-2025
+1045,Keerthi,Trichy,Groceries,Rice Bag,5,2400,UPI,17-03-2025
+1046,Kumar,Chennai,Electronics,Laptop,1,55000,Card,18-04-2025
+1047,Divya,Madurai,Furniture,Sofa,2,25000,Cash,19-05-2025
+1048,Ravi,Coimbatore,Groceries,Tea,3,450,Net Banking,20-06-2025
+1049,Vijay,Salem,Electronics,Monitor,4,12000,UPI,21-01-2025
+1050,Anitha,Trichy,Furniture,Table,5,6500,Card,22-02-2025
+1051,Hari,Chennai,Groceries,Sugar,1,900,Cash,23-03-2025
+1052,Logesh,Madurai,Electronics,Mouse,2,800,Net Banking,24-04-2025
+1053,Priya,Coimbatore,Furniture,Chair,3,2500,UPI,25-05-2025
+1054,Arun,Salem,Groceries,Oil,4,1800,Card,26-06-2025
+1055,Keerthi,Trichy,Electronics,Phone,5,25000,Cash,27-01-2025
+1056,Kumar,Chennai,Furniture,Cupboard,1,18000,Net Banking,28-02-2025
+1057,Divya,Madurai,Groceries,Rice Bag,2,2400,UPI,01-03-2025
+1058,Ravi,Coimbatore,Electronics,Keyboard,3,1800,Card,02-04-2025
+1059,Vijay,Salem,Furniture,Sofa,4,25000,Cash,03-05-2025
+1060,Anitha,Trichy,Groceries,Tea,5,450,Net Banking,04-06-2025
